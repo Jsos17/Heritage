@@ -8,7 +8,7 @@ Research published in 2017 by Outi Patronen on the changes of surnames in Finnis
 
 *Luhtala*, *Luhtanen*, *Luhtalo* and *Luhtoinen* are some forms of my family name that can be found in old Finnish Orthodox Church records. Old Karelian maps (National Land Survey of Finland, 2009) [show the name *Luhtanen* clearly in the village of Kaunoselkä](https://www.karjalankartat.fi/?language=en&E=4617848.554557328&N=6828052.916638066&scale=10000&base=OpenLayers.Layer.WMS_4&text=Luhtanen):
 
-![Kaunoselkä, Luhtanen](https://github.com/Jsos17/Jsos17/blob/main/Kaunoselka_Luhtanen.png)
+![Kaunoselkä, Luhtanen](Kaunoselka_Luhtanen.png)
 
 The form *Luhtala* has then eventually become established as the official family name. It is possible that before the surname *Luhtala* was adopted, my Orthodox Karelian ancestors did not have a surname but they used patronyms instead (patronym: a part of a person's name is based on their father's first name).
 
@@ -25,7 +25,7 @@ The form *Luhtala* has then eventually become established as the official family
 
 ## Border Karelian and East Karelian Heritage
 
-![The Flag of East Karelia](https://github.com/Jsos17/Jsos17/blob/main/640px-Itakarjalaisten_lippu.svg.png)
+![The Flag of East Karelia](640px-Itakarjalaisten_lippu.svg.png)
 
 The flag of East Karelia should be displayed above. The flag of East Karelia is used as the ethnic flag of Karelians. The flag was designed by famous Finnish artist Akseli Gallen-Kallela and it was proposed to be used as an independentist flag in the region of East Karelia (Finnish: Itä-Karjala).
 
