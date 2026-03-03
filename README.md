@@ -54,7 +54,7 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 - [Karjalan kielen asema on Suomessa heikko – professori: "Perustuslaki antaisi kielelle olemassaolon oikeutuksen", YLE Uutiset (in Finnish)](https://yle.fi/uutiset/3-12501465)
 - [Professori Anneli Sarhimaa: Karjalan kielellä viime hetket elpyä, Yle Areena (in Finnish)](https://areena.yle.fi/podcastit/1-4303009)
 - [Karelians, Wikipedia](https://en.wikipedia.org/wiki/Karelians)
-- [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/kulttuuri/)
+- [Karjalainen kulttuuri, Karjalan Sivistysseura (in Finnish)](https://www.karjalansivistysseura.fi/)
 - [Karjalaiset (kansa), Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Karjalaiset_(kansa))
 - [Suomen karjalankieliset, Wikipedia (in Finnish)](https://fi.wikipedia.org/wiki/Suomen_karjalankieliset)
 
