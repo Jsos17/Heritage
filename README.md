@@ -35,7 +35,7 @@ For me the flag of East Karelia symbolizes my Orthodox Karelian cultural heritag
 
 ### The Flag of East Karelia Image Information
 
-The image displaying the flag of East Karelia is from the Wikimedia Commons page of the East Karelia flag. Image author information can be found on [Wikimedia Commons page of the East Karelia flag](https://commons.wikimedia.org/wiki/File:It%C3%A4karjalaisten_lippu.svg#Licensing).
+The image displaying the flag of East Karelia is from the Wikimedia Commons page of the East Karelia flag. Image author is assumed to be Wikipedia user Boris23. More image information can be found on [Wikimedia Commons page of the East Karelia flag](https://commons.wikimedia.org/wiki/File:It%C3%A4karjalaisten_lippu.svg#Licensing).
 
 ### Some Research on the Subject and Other Links for More Information
 
