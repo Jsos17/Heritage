@@ -44,7 +44,7 @@ The image displaying the flag of East Karelia is from the Wikimedia Commons page
 - [Kontrolloitu sopeutuminen : ortodoksinen siirtoväki sotien jälkeisessä Ylä-Savossa (1946-1959), Heli Kaarina Kananen, Jyväskylä University Digital Repository (in Finnish)](https://jyx.jyu.fi/handle/123456789/25623)
 - [Kirja-arvio: Uusi kirja kertoo Suomessa melkein unohdetun kansansirpaleen kokemasta rasismista sodan jälkeen - salmilaisten uskonto ja kieli poikkesivat valtaväestöstä ja syrjintä oli yleistä, MTV Uutiset (in Finnish)](https://www.mtvuutiset.fi/artikkeli/kirja-arvio-uusi-kirja-kertoo-suomessa-melkein-unohdetun-kansansirpaleen-kokemasta-rasismista-sodan-jalkeen-salmilaisten-uskonto-ja-kieli-poikkesivat-valtavaestosta-ja-syrjinta-oli-yleista/7224782)
 - [Ryssittely loppui vasta, kun evakoiden lapset kävivät "sotaan" paikallisia vastaan – 1940-luvun Suomi sopeutti pakolaisiaan kovalla kädellä, Yle Uutiset (in Finnish)](https://yle.fi/uutiset/3-9953675)
-- [Karjalaisia ryssiteltiin ja heiltä kiellettiin uskonto ja kieli – nykykarjalainen pagisee lapselleen ja somettelee, Yle Uutiset (in Finnish)](https://yle.fi/uutiset/3-9828308)
+- [Karjalaisia ryssiteltiin ja heiltä kiellettiin uskonto ja kieli, Yle Uutiset (in Finnish)](https://yle.fi/uutiset/3-9828308)
 
 #### Ethnic Karelian People, Their Culture and Language
 
